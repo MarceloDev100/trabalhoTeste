@@ -1,0 +1,1 @@
+Estudaremos conflitos em versionamento e como gerenciá-los para poder dar um merge
